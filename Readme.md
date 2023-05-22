@@ -1,3 +1,11 @@
+# Installation rbx
+
+```
+conda create --name raceline2 --clone sds16
+conda activate raceline2
+pip install -r requirements.txt 
+```
+
 # Introduction
 This repository contains algorithms that allow us to determine an optimal racing line on a race track. You can chose
 between several objectives:
